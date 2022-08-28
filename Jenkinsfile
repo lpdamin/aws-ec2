@@ -30,7 +30,7 @@ pipeline {
         stage('cdktf-install') {
             steps {
                 
-                bat 'npm install --global cdktf-cli@latest'
+                bat 'npm.cmd install --global cdktf-cli@latest'
                 
                 }
             }

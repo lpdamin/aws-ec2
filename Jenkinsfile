@@ -29,13 +29,13 @@ pipeline {
             }
         stage('cdktf-install') {
             steps {
-                bat 'npm.cmd install --global cdktf-cli@latest'
+                bat 'npm install --global cdktf-cli@next'
                 
                 }
             }
         stage('install-awsprovider') {
             steps {
-                bat 'cdktf provider add "aws@~>4.0"'
+                bat 'cdktf help'
                 }
             }
 

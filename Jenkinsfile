@@ -6,6 +6,9 @@ pipeline {
         booleanParam(name: 'destroy', defaultValue: false, description: 'Destroy the infra')
 
     }
+    environment {
+    TFE_TOKEN = "mGB1625KY017FQ.atlasv1.23FOAMgyyrmkRuvbc7dmovaxDKoVJ05Aqyt2zli5Xx6AkqkezxqMdCLXecMLn6Fe3H8"
+}
     stages {
         stage('checkout') {
             steps {
@@ -34,10 +37,10 @@ pipeline {
                 equals expected: true, actual: params.deploy
             }
             steps {
-                configFileProvider([configFile(fileId: 'terraform')]) {
+                
                 bat 'mvn compile'
                 bat 'cdktf deploy --auto-approve'
-                }
+                
             }
             }
         stage('Destroy-instance') {

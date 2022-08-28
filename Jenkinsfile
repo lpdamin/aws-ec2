@@ -35,7 +35,8 @@ pipeline {
             }
         stage('install-awsprovider') {
             steps {
-                bat 'cdktf provider add aws@~>4.0'
+                 bat 'cdktf synth'
+                //bat 'cdktf provider add "aws@~>4.0"'
                 }
             }
 

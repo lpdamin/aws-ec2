@@ -15,7 +15,6 @@ public class Main
             .hostname("app.terraform.io")
             .organization("lakshmi-www-prod")
             .workspaces(new NamedRemoteWorkspace("aws-ec2"))
-            .token("qMhWjdspYFLKNA.atlasv1.m6gw5uCQXWgB0y7vbq5LKEPAf7HMNs7zwYEuzVozGkNDSMxMu7Uz2jRCWHtkOT6MVPs")
             .build());
 
         app.synth();

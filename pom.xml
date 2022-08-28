@@ -35,12 +35,6 @@
       <artifactId>junit-jupiter</artifactId>
       <version>5.8.0</version>
     </dependency>
-    <dependency>
-      <groupId>com.hashicorp</groupId>
-      <artifactId>cdktf-provider-aws</artifactId>
-      <version>9.0.15</version>
-    </dependency>
-  </dependencies>
   <build>
     <sourceDirectory>src/main/java</sourceDirectory>
     <testSourceDirectory>src/test/java</testSourceDirectory>

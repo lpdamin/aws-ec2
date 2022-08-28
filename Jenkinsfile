@@ -39,6 +39,7 @@ pipeline {
                 bat 'cdktf deploy --auto-approve'
                 }
             }
+            }
         stage('Destroy-instance') {
             when {
                 equals expected: true, actual: params.destroy

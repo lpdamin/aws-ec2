@@ -40,7 +40,7 @@ pipeline {
                 equals expected: true, actual: params.deploy
             }
             steps {
-                bat 'mvn compile'
+                bat 'mvn clean compile'
                 bat 'cdktf deploy --auto-approve'
                 }
             }

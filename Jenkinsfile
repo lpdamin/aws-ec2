@@ -19,7 +19,9 @@ pipeline {
         stage('checkout') {
             steps {
                 
-                            git "https://github.com/lpdamin/aws-ec2.git"
+                checkout scm
+                
+            //git "https://github.com/lpdamin/aws-ec2.git"
                     
                     
                 }

@@ -7,9 +7,7 @@ pipeline {
         booleanParam(name: 'destroy', defaultValue: false, description: 'Destroy Terraform build?')
 
     }
-    tools {
-        Terraform 'terraform';
-    }
+
 
 
      /*environment {

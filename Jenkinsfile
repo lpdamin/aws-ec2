@@ -7,6 +7,9 @@ pipeline {
         booleanParam(name: 'destroy', defaultValue: false, description: 'Destroy Terraform build?')
 
     }
+    tools {
+        Terraform terraform;
+    }
 
 
      /*environment {
@@ -35,7 +38,7 @@ pipeline {
             }
         stage('install-awsprovider') {
             steps {
-                 sh 'cdktf synth'
+                 bat 'cdktf synth'
                 //bat 'cdktf provider add "aws@~>4.0"'
                 }
             }

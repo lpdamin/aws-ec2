@@ -8,7 +8,7 @@ pipeline {
 
     }
     tools {
-        Terraform terraform;
+        Terraform 'terraform';
     }
 
 

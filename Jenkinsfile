@@ -39,7 +39,6 @@ pipeline {
             steps {
                 
                 bat 'mvn compile'
-                bat 'cdktf login'
                 bat 'cdktf deploy --auto-approve'
                 
             }

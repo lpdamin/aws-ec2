@@ -31,6 +31,7 @@ pipeline {
             }
         stage('install-awsprovider') {
             steps {
+                 bat 'cdktf help'
                 //bat 'cdktf provider add "aws@~>4.0"'
                 }
             }

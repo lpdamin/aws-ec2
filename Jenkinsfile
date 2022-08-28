@@ -6,12 +6,6 @@ pipeline {
         booleanParam(name: 'destroy', defaultValue: false, description: 'Destroy the infra')
 
     }
-
-
-
-     
-
-
     stages {
         stage('checkout') {
             steps {
@@ -40,6 +34,7 @@ pipeline {
                 equals expected: true, actual: params.deploy
             }
             steps {
+                configFileProvider([configFile(fileId: 'terraform')]) {
                 bat 'mvn compile'
                 bat 'cdktf deploy --auto-approve'
                 }

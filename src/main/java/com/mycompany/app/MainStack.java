@@ -15,14 +15,13 @@ public class MainStack extends TerraformStack
 
         AwsProvider.Builder.create(this, "AWS")
           .region("us-east-1")
-          .accessKey("AKIAYVYEEAOWIHLC3UWL")
-          .secretKey("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")
           .build();
 
         Instance instance = Instance.Builder.create(this, "compute")
           .ami("ami-05fa00d4c63e32376")
           .instanceType("t2.micro")
           .build();
+        
 
         TerraformOutput.Builder.create(this, "public_ip")
           .value(instance.getPublicIp())

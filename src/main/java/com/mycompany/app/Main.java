@@ -15,11 +15,11 @@ public class Main
         final App app = new App();
         TerraformStack stack = new MainStack(app, "aws_instance");
         new S3Backend(stack, S3BackendProps.builder()
-        .bucket("lakshmi-tfstate")
+        .bucket("lakshmi-backend-tfstate")
         .region("us-east-1")
         .key("aws-ec2/cdktf.out/stacks/aws_instance/.terraform/terraform.tfstate")
-        .accessKey("AKIAYVYEEAOWIHLC3UWL")
-        .secretKey("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")
+        //.accessKey("AKIA6KM4N44X3JGU7NFM")
+        //.secretKey("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")
         .build());
 
     /*   new RemoteBackend(stack, RemoteBackendProps.builder()

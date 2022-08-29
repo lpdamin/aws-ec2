@@ -7,23 +7,18 @@ pipeline {
 
     }
     environment {
-    TFE_TOKEN = "mGB1625KY017FQ.atlasv1.23FOAMgyyrmkRuvbc7dmovaxDKoVJ05Aqyt2zli5Xx6AkqkezxqMdCLXecMLn6Fe3H8"
-}
+        AWS_ACCESS_KEY_ID     = credentials('AWS_ACCESS_KEY_ID')
+        AWS_SECRET_ACCESS_KEY = credentials('AWS_SECRET_ACCESS_KEY')
+    }
     stages {
         stage('checkout') {
             steps {
-                
-                checkout scm
-                
-            //git "https://github.com/lpdamin/aws-ec2.git"
-                    
-                    
+                checkout scm    
                 }
             }
         stage('cdktf-install') {
             steps {
                 bat 'npm install --global cdktf-cli@next'
-                
                 }
             }
         stage('install-awsprovider') {
@@ -39,7 +34,6 @@ pipeline {
             steps {
                 
                 bat 'mvn compile'
-                bat 'cdktf login'
                 bat 'cdktf deploy --auto-approve'
                 
             }
@@ -49,9 +43,9 @@ pipeline {
                 equals expected: true, actual: params.destroy
             }
         
-        steps {
-           bat 'cdktf destroy --auto-approve'
-        }
+            steps {
+            bat 'cdktf destroy --auto-approve'
+          }
     }
   }
 }

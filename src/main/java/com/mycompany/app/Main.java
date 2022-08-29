@@ -14,16 +14,21 @@ public class Main
     public static void main(String[] args) {
         final App app = new App();
         TerraformStack stack = new MainStack(app, "aws_instance");
-        /*new S3Backend(stack, S3BackendProps.builder()
+        new S3Backend(stack, S3BackendProps.builder()
         .bucket("lakshmi-tfstate")
         .region("us-east-1")
-        .build());*/
-        new RemoteBackend(stack, RemoteBackendProps.builder()
+        .key("aws-ec2/cdktf.out/stacks/aws_instance/.terraform/terraform.tfstate")
+        //.accessKey("AKIAYVYEEAOWIHLC3UWL")
+        //.secretKey("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")
+        .build());
+
+    /*   new RemoteBackend(stack, RemoteBackendProps.builder()
             .hostname("app.terraform.io")
             .organization("lakshmi-www-prod")
             .workspaces(new NamedRemoteWorkspace("aws-ec2"))
             .token("iMMTI31yakiqEg.atlasv1.oUhetAJHwiI1y5O94MpIIZIUHxmJaS9M2DGRRVdkkKXhlKI6wiwTr1FWMx2yQspKt5c")
             .build());
+            */
 
         app.synth();
     }

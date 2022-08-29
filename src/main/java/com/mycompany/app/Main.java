@@ -18,8 +18,8 @@ public class Main
         .bucket("lakshmi-tfstate")
         .region("us-east-1")
         .key("aws-ec2/cdktf.out/stacks/aws_instance/.terraform/terraform.tfstate")
-        //.accessKey("AKIAYVYEEAOWIHLC3UWL")
-        //.secretKey("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")
+        .accessKey("AKIAYVYEEAOWIHLC3UWL")
+        .secretKey("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")
         .build());
 
     /*   new RemoteBackend(stack, RemoteBackendProps.builder()

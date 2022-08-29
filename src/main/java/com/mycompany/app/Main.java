@@ -22,7 +22,7 @@ public class Main
             .hostname("app.terraform.io")
             .organization("lakshmi-www-prod")
             .workspaces(new NamedRemoteWorkspace("aws-ec2"))
-            .token("Zn54BEPUOs0YYQ.atlasv1.DobGOLLLbL51DCidu5La9CQ4EDHi6Lsi21Oo5cXACOd97SvBRqS31jPyBmBME80uBeA")
+            .token("iMMTI31yakiqEg.atlasv1.oUhetAJHwiI1y5O94MpIIZIUHxmJaS9M2DGRRVdkkKXhlKI6wiwTr1FWMx2yQspKt5c")
             .build());
 
         app.synth();

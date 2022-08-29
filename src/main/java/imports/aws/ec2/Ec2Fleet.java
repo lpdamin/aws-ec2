@@ -3,7 +3,7 @@ package imports.aws.ec2;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/r/ec2_fleet aws_ec2_fleet}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:58.946Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.714Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.ec2.Ec2Fleet")
 public class Ec2Fleet extends com.hashicorp.cdktf.TerraformResource {
 

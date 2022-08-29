@@ -3,7 +3,7 @@ package imports.aws.globalaccelerator;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/r/globalaccelerator_endpoint_group aws_globalaccelerator_endpoint_group}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.293Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.232Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.globalaccelerator.GlobalacceleratorEndpointGroup")
 public class GlobalacceleratorEndpointGroup extends com.hashicorp.cdktf.TerraformResource {
 

@@ -3,7 +3,7 @@ package imports.aws.outposts;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/d/outposts_outpost_instance_type aws_outposts_outpost_instance_type}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.126Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.156Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.outposts.DataAwsOutpostsOutpostInstanceType")
 public class DataAwsOutpostsOutpostInstanceType extends com.hashicorp.cdktf.TerraformDataSource {
 

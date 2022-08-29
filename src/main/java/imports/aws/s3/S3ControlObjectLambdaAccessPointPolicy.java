@@ -3,7 +3,7 @@ package imports.aws.s3;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/r/s3control_object_lambda_access_point_policy aws_s3control_object_lambda_access_point_policy}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.464Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.474Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.s3.S3ControlObjectLambdaAccessPointPolicy")
 public class S3ControlObjectLambdaAccessPointPolicy extends com.hashicorp.cdktf.TerraformResource {
 

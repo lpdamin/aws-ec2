@@ -3,7 +3,7 @@ package imports.aws.backup;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/r/backup_report_plan aws_backup_report_plan}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:56.940Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:47.847Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.backup.BackupReportPlan")
 public class BackupReportPlan extends com.hashicorp.cdktf.TerraformResource {
 

@@ -3,7 +3,7 @@ package imports.aws.vpc;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/r/network_interface_attachment aws_network_interface_attachment}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.968Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.943Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.vpc.NetworkInterfaceAttachmentA")
 public class NetworkInterfaceAttachmentA extends com.hashicorp.cdktf.TerraformResource {
 

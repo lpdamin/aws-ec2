@@ -3,7 +3,7 @@ package imports.aws.devicefarm;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/r/devicefarm_network_profile aws_devicefarm_network_profile}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:58.198Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.379Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.devicefarm.DevicefarmNetworkProfile")
 public class DevicefarmNetworkProfile extends com.hashicorp.cdktf.TerraformResource {
 

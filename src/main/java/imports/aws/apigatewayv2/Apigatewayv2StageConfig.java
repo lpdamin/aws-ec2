@@ -3,7 +3,7 @@ package imports.aws.apigatewayv2;
 /**
  * Amazon API Gateway Websocket and HTTP APIs.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:56.335Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:47.560Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.apigatewayv2.Apigatewayv2StageConfig")
 @software.amazon.jsii.Jsii.Proxy(Apigatewayv2StageConfig.Jsii$Proxy.class)
 public interface Apigatewayv2StageConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

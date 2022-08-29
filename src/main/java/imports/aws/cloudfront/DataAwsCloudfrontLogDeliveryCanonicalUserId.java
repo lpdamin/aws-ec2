@@ -3,7 +3,7 @@ package imports.aws.cloudfront;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/d/cloudfront_log_delivery_canonical_user_id aws_cloudfront_log_delivery_canonical_user_id}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:57.273Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.009Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.cloudfront.DataAwsCloudfrontLogDeliveryCanonicalUserId")
 public class DataAwsCloudfrontLogDeliveryCanonicalUserId extends com.hashicorp.cdktf.TerraformDataSource {
 

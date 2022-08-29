@@ -1,6 +1,6 @@
 package imports.aws.gamelift;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.257Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.217Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.gamelift.GameliftGameServerGroupAutoScalingPolicyTargetTrackingConfiguration")
 @software.amazon.jsii.Jsii.Proxy(GameliftGameServerGroupAutoScalingPolicyTargetTrackingConfiguration.Jsii$Proxy.class)
 public interface GameliftGameServerGroupAutoScalingPolicyTargetTrackingConfiguration extends software.amazon.jsii.JsiiSerializable {

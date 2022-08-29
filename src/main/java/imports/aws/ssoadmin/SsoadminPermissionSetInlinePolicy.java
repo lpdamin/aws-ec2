@@ -3,7 +3,7 @@ package imports.aws.ssoadmin;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/r/ssoadmin_permission_set_inline_policy aws_ssoadmin_permission_set_inline_policy}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.783Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.781Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.ssoadmin.SsoadminPermissionSetInlinePolicy")
 public class SsoadminPermissionSetInlinePolicy extends com.hashicorp.cdktf.TerraformResource {
 

@@ -1,6 +1,6 @@
 package imports.aws.apigatewayv2;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:56.346Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:47.565Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.apigatewayv2.DataAwsApigatewayv2ApiCorsConfigurationList")
 public class DataAwsApigatewayv2ApiCorsConfigurationList extends com.hashicorp.cdktf.ComplexList {
 

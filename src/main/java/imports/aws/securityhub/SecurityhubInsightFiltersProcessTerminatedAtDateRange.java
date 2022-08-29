@@ -1,6 +1,6 @@
 package imports.aws.securityhub;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.598Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.596Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.securityhub.SecurityhubInsightFiltersProcessTerminatedAtDateRange")
 @software.amazon.jsii.Jsii.Proxy(SecurityhubInsightFiltersProcessTerminatedAtDateRange.Jsii$Proxy.class)
 public interface SecurityhubInsightFiltersProcessTerminatedAtDateRange extends software.amazon.jsii.JsiiSerializable {

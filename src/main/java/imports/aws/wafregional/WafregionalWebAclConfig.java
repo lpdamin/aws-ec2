@@ -3,7 +3,7 @@ package imports.aws.wafregional;
 /**
  * AWS WAF Regional.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:02.124Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:51.102Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.wafregional.WafregionalWebAclConfig")
 @software.amazon.jsii.Jsii.Proxy(WafregionalWebAclConfig.Jsii$Proxy.class)
 public interface WafregionalWebAclConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

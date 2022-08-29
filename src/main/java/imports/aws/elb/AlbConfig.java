@@ -3,7 +3,7 @@ package imports.aws.elb;
 /**
  * AWS Elastic Load Balancer.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:59.707Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.025Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.elb.AlbConfig")
 @software.amazon.jsii.Jsii.Proxy(AlbConfig.Jsii$Proxy.class)
 public interface AlbConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

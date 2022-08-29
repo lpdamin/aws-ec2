@@ -3,7 +3,7 @@ package imports.aws.vpc;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/r/main_route_table_association aws_main_route_table_association}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.948Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.936Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.vpc.MainRouteTableAssociation")
 public class MainRouteTableAssociation extends com.hashicorp.cdktf.TerraformResource {
 

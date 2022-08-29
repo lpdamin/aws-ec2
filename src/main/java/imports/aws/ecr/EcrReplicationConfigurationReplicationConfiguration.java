@@ -1,6 +1,6 @@
 package imports.aws.ecr;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:59.349Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.871Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.ecr.EcrReplicationConfigurationReplicationConfiguration")
 @software.amazon.jsii.Jsii.Proxy(EcrReplicationConfigurationReplicationConfiguration.Jsii$Proxy.class)
 public interface EcrReplicationConfigurationReplicationConfiguration extends software.amazon.jsii.JsiiSerializable {

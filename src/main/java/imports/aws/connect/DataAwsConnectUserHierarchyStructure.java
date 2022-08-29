@@ -3,7 +3,7 @@ package imports.aws.connect;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/d/connect_user_hierarchy_structure aws_connect_user_hierarchy_structure}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:57.948Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.287Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.connect.DataAwsConnectUserHierarchyStructure")
 public class DataAwsConnectUserHierarchyStructure extends com.hashicorp.cdktf.TerraformDataSource {
 

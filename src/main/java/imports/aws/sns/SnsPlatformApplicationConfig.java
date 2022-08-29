@@ -3,7 +3,7 @@ package imports.aws.sns;
 /**
  * AWS Simple Notification Service.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.726Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.731Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.sns.SnsPlatformApplicationConfig")
 @software.amazon.jsii.Jsii.Proxy(SnsPlatformApplicationConfig.Jsii$Proxy.class)
 public interface SnsPlatformApplicationConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

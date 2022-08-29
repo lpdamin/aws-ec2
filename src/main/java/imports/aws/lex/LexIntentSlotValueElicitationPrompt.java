@@ -1,6 +1,6 @@
 package imports.aws.lex;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.759Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.848Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.lex.LexIntentSlotValueElicitationPrompt")
 @software.amazon.jsii.Jsii.Proxy(LexIntentSlotValueElicitationPrompt.Jsii$Proxy.class)
 public interface LexIntentSlotValueElicitationPrompt extends software.amazon.jsii.JsiiSerializable {

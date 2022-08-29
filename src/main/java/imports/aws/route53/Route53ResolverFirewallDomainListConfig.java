@@ -3,7 +3,7 @@ package imports.aws.route53;
 /**
  * AWS Route 53.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.351Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.362Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.route53.Route53ResolverFirewallDomainListConfig")
 @software.amazon.jsii.Jsii.Proxy(Route53ResolverFirewallDomainListConfig.Jsii$Proxy.class)
 public interface Route53ResolverFirewallDomainListConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

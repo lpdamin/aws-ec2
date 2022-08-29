@@ -3,7 +3,7 @@ package imports.aws.cloudwatch;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/r/cloudwatch_log_stream aws_cloudwatch_log_stream}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:57.377Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.066Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.cloudwatch.CloudwatchLogStream")
 public class CloudwatchLogStream extends com.hashicorp.cdktf.TerraformResource {
 

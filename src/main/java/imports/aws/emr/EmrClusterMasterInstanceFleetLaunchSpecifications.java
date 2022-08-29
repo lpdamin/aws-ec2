@@ -1,6 +1,6 @@
 package imports.aws.emr;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:59.958Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.119Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.emr.EmrClusterMasterInstanceFleetLaunchSpecifications")
 @software.amazon.jsii.Jsii.Proxy(EmrClusterMasterInstanceFleetLaunchSpecifications.Jsii$Proxy.class)
 public interface EmrClusterMasterInstanceFleetLaunchSpecifications extends software.amazon.jsii.JsiiSerializable {

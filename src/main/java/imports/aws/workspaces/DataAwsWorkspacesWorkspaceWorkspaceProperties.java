@@ -1,6 +1,6 @@
 package imports.aws.workspaces;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:02.702Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:51.715Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.workspaces.DataAwsWorkspacesWorkspaceWorkspaceProperties")
 @software.amazon.jsii.Jsii.Proxy(DataAwsWorkspacesWorkspaceWorkspaceProperties.Jsii$Proxy.class)
 public interface DataAwsWorkspacesWorkspaceWorkspaceProperties extends software.amazon.jsii.JsiiSerializable {

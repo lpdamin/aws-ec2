@@ -3,7 +3,7 @@ package imports.aws.servicediscovery;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/d/service_discovery_dns_namespace aws_service_discovery_dns_namespace}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.666Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.673Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.servicediscovery.DataAwsServiceDiscoveryDnsNamespace")
 public class DataAwsServiceDiscoveryDnsNamespace extends com.hashicorp.cdktf.TerraformDataSource {
 

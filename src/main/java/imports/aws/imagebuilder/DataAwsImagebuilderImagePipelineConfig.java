@@ -3,7 +3,7 @@ package imports.aws.imagebuilder;
 /**
  * AWS Image Builder.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.515Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.372Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.imagebuilder.DataAwsImagebuilderImagePipelineConfig")
 @software.amazon.jsii.Jsii.Proxy(DataAwsImagebuilderImagePipelineConfig.Jsii$Proxy.class)
 public interface DataAwsImagebuilderImagePipelineConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

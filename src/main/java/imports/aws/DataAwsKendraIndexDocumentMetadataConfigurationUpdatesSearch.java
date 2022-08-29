@@ -1,6 +1,6 @@
 package imports.aws;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:55.583Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:47.199Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.DataAwsKendraIndexDocumentMetadataConfigurationUpdatesSearch")
 @software.amazon.jsii.Jsii.Proxy(DataAwsKendraIndexDocumentMetadataConfigurationUpdatesSearch.Jsii$Proxy.class)
 public interface DataAwsKendraIndexDocumentMetadataConfigurationUpdatesSearch extends software.amazon.jsii.JsiiSerializable {

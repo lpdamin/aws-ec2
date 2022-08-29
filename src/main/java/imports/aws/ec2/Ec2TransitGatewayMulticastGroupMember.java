@@ -3,7 +3,7 @@ package imports.aws.ec2;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/r/ec2_transit_gateway_multicast_group_member aws_ec2_transit_gateway_multicast_group_member}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:59.120Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.784Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.ec2.Ec2TransitGatewayMulticastGroupMember")
 public class Ec2TransitGatewayMulticastGroupMember extends com.hashicorp.cdktf.TerraformResource {
 

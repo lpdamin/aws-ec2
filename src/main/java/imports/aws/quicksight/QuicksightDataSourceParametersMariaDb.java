@@ -1,6 +1,6 @@
 package imports.aws.quicksight;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.172Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.193Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.quicksight.QuicksightDataSourceParametersMariaDb")
 @software.amazon.jsii.Jsii.Proxy(QuicksightDataSourceParametersMariaDb.Jsii$Proxy.class)
 public interface QuicksightDataSourceParametersMariaDb extends software.amazon.jsii.JsiiSerializable {

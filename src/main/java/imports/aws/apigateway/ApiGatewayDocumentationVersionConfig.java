@@ -3,7 +3,7 @@ package imports.aws.apigateway;
 /**
  * API Gateway.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:56.096Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:47.455Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.apigateway.ApiGatewayDocumentationVersionConfig")
 @software.amazon.jsii.Jsii.Proxy(ApiGatewayDocumentationVersionConfig.Jsii$Proxy.class)
 public interface ApiGatewayDocumentationVersionConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

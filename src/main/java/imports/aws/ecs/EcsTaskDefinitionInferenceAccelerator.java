@@ -1,6 +1,6 @@
 package imports.aws.ecs;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:59.407Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.912Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.ecs.EcsTaskDefinitionInferenceAccelerator")
 @software.amazon.jsii.Jsii.Proxy(EcsTaskDefinitionInferenceAccelerator.Jsii$Proxy.class)
 public interface EcsTaskDefinitionInferenceAccelerator extends software.amazon.jsii.JsiiSerializable {

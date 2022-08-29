@@ -1,6 +1,6 @@
 package imports.aws.opsworks;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.087Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.112Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.opsworks.OpsworksPhpAppLayerCloudwatchConfigurationLogStreams")
 @software.amazon.jsii.Jsii.Proxy(OpsworksPhpAppLayerCloudwatchConfigurationLogStreams.Jsii$Proxy.class)
 public interface OpsworksPhpAppLayerCloudwatchConfigurationLogStreams extends software.amazon.jsii.JsiiSerializable {

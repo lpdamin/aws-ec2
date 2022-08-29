@@ -3,7 +3,7 @@ package imports.aws.organizations;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/d/organizations_delegated_services aws_organizations_delegated_services}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.115Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.135Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.organizations.DataAwsOrganizationsDelegatedServices")
 public class DataAwsOrganizationsDelegatedServices extends com.hashicorp.cdktf.TerraformDataSource {
 

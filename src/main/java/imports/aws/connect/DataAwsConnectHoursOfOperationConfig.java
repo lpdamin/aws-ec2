@@ -3,7 +3,7 @@ package imports.aws.connect;
 /**
  * AWS Connect.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:57.890Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.266Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.connect.DataAwsConnectHoursOfOperationConfig")
 @software.amazon.jsii.Jsii.Proxy(DataAwsConnectHoursOfOperationConfig.Jsii$Proxy.class)
 public interface DataAwsConnectHoursOfOperationConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

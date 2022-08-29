@@ -3,7 +3,7 @@ package imports.aws.glue;
 /**
  * AWS Glue.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.361Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.291Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.glue.GlueWorkflowConfig")
 @software.amazon.jsii.Jsii.Proxy(GlueWorkflowConfig.Jsii$Proxy.class)
 public interface GlueWorkflowConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

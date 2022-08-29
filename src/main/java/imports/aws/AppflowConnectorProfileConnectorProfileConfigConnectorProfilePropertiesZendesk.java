@@ -1,6 +1,6 @@
 package imports.aws;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:55.147Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:46.990Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.AppflowConnectorProfileConnectorProfileConfigConnectorProfilePropertiesZendesk")
 @software.amazon.jsii.Jsii.Proxy(AppflowConnectorProfileConnectorProfileConfigConnectorProfilePropertiesZendesk.Jsii$Proxy.class)
 public interface AppflowConnectorProfileConnectorProfileConfigConnectorProfilePropertiesZendesk extends software.amazon.jsii.JsiiSerializable {

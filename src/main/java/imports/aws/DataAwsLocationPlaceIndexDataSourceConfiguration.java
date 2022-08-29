@@ -1,6 +1,6 @@
 package imports.aws;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:55.598Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:47.210Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.DataAwsLocationPlaceIndexDataSourceConfiguration")
 @software.amazon.jsii.Jsii.Proxy(DataAwsLocationPlaceIndexDataSourceConfiguration.Jsii$Proxy.class)
 public interface DataAwsLocationPlaceIndexDataSourceConfiguration extends software.amazon.jsii.JsiiSerializable {

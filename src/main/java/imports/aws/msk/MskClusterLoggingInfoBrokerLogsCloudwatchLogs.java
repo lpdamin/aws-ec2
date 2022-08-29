@@ -1,6 +1,6 @@
 package imports.aws.msk;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.839Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.967Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.msk.MskClusterLoggingInfoBrokerLogsCloudwatchLogs")
 @software.amazon.jsii.Jsii.Proxy(MskClusterLoggingInfoBrokerLogsCloudwatchLogs.Jsii$Proxy.class)
 public interface MskClusterLoggingInfoBrokerLogsCloudwatchLogs extends software.amazon.jsii.JsiiSerializable {

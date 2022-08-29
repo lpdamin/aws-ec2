@@ -3,7 +3,7 @@ package imports.aws.vpc;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/r/flow_log aws_flow_log}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.943Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.924Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.vpc.FlowLog")
 public class FlowLog extends com.hashicorp.cdktf.TerraformResource {
 

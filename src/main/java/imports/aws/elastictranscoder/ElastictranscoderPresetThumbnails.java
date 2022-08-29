@@ -1,6 +1,6 @@
 package imports.aws.elastictranscoder;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:59.702Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.023Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.elastictranscoder.ElastictranscoderPresetThumbnails")
 @software.amazon.jsii.Jsii.Proxy(ElastictranscoderPresetThumbnails.Jsii$Proxy.class)
 public interface ElastictranscoderPresetThumbnails extends software.amazon.jsii.JsiiSerializable {

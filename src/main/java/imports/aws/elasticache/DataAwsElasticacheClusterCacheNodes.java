@@ -1,6 +1,6 @@
 package imports.aws.elasticache;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:59.511Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.960Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.elasticache.DataAwsElasticacheClusterCacheNodes")
 @software.amazon.jsii.Jsii.Proxy(DataAwsElasticacheClusterCacheNodes.Jsii$Proxy.class)
 public interface DataAwsElasticacheClusterCacheNodes extends software.amazon.jsii.JsiiSerializable {

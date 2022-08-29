@@ -1,6 +1,6 @@
 package imports.aws.route53;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.316Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.325Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.route53.DataAwsRoute53TrafficPolicyDocumentRulePrimaryOutputReference")
 public class DataAwsRoute53TrafficPolicyDocumentRulePrimaryOutputReference extends com.hashicorp.cdktf.ComplexObject {
 

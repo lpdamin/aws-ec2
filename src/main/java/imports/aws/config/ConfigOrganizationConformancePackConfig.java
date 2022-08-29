@@ -3,7 +3,7 @@ package imports.aws.config;
 /**
  * AWS Config.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:57.780Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.215Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.config.ConfigOrganizationConformancePackConfig")
 @software.amazon.jsii.Jsii.Proxy(ConfigOrganizationConformancePackConfig.Jsii$Proxy.class)
 public interface ConfigOrganizationConformancePackConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

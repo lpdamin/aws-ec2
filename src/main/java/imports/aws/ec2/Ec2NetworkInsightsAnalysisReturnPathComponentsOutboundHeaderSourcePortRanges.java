@@ -1,6 +1,6 @@
 package imports.aws.ec2;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:59.078Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.761Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.ec2.Ec2NetworkInsightsAnalysisReturnPathComponentsOutboundHeaderSourcePortRanges")
 @software.amazon.jsii.Jsii.Proxy(Ec2NetworkInsightsAnalysisReturnPathComponentsOutboundHeaderSourcePortRanges.Jsii$Proxy.class)
 public interface Ec2NetworkInsightsAnalysisReturnPathComponentsOutboundHeaderSourcePortRanges extends software.amazon.jsii.JsiiSerializable {

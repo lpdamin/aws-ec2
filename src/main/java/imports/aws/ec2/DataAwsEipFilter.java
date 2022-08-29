@@ -1,6 +1,6 @@
 package imports.aws.ec2;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:58.803Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.669Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.ec2.DataAwsEipFilter")
 @software.amazon.jsii.Jsii.Proxy(DataAwsEipFilter.Jsii$Proxy.class)
 public interface DataAwsEipFilter extends software.amazon.jsii.JsiiSerializable {

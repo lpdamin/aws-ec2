@@ -3,7 +3,7 @@ package imports.aws;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/r/grafana_workspace_saml_configuration aws_grafana_workspace_saml_configuration}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:55.698Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:47.255Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.GrafanaWorkspaceSamlConfiguration")
 public class GrafanaWorkspaceSamlConfiguration extends com.hashicorp.cdktf.TerraformResource {
 

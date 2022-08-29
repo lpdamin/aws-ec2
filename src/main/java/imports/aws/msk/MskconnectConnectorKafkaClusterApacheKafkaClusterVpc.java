@@ -1,6 +1,6 @@
 package imports.aws.msk;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.870Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.986Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.msk.MskconnectConnectorKafkaClusterApacheKafkaClusterVpc")
 @software.amazon.jsii.Jsii.Proxy(MskconnectConnectorKafkaClusterApacheKafkaClusterVpc.Jsii$Proxy.class)
 public interface MskconnectConnectorKafkaClusterApacheKafkaClusterVpc extends software.amazon.jsii.JsiiSerializable {

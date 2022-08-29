@@ -1,6 +1,6 @@
 package imports.aws.vpc;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:02.023Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:51.003Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.vpc.VpcEndpointDnsEntry")
 @software.amazon.jsii.Jsii.Proxy(VpcEndpointDnsEntry.Jsii$Proxy.class)
 public interface VpcEndpointDnsEntry extends software.amazon.jsii.JsiiSerializable {

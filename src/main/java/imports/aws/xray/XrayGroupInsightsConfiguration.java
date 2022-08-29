@@ -1,6 +1,6 @@
 package imports.aws.xray;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:02.707Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:51.721Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.xray.XrayGroupInsightsConfiguration")
 @software.amazon.jsii.Jsii.Proxy(XrayGroupInsightsConfiguration.Jsii$Proxy.class)
 public interface XrayGroupInsightsConfiguration extends software.amazon.jsii.JsiiSerializable {

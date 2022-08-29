@@ -1,6 +1,6 @@
 package imports.aws.appmesh;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:56.412Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:47.611Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.appmesh.AppmeshGatewayRouteSpecHttpRouteMatchHostname")
 @software.amazon.jsii.Jsii.Proxy(AppmeshGatewayRouteSpecHttpRouteMatchHostname.Jsii$Proxy.class)
 public interface AppmeshGatewayRouteSpecHttpRouteMatchHostname extends software.amazon.jsii.JsiiSerializable {

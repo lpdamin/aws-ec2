@@ -1,6 +1,6 @@
 package imports.aws.lambdafunction;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.725Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.790Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.lambdafunction.LambdaFunctionImageConfig")
 @software.amazon.jsii.Jsii.Proxy(LambdaFunctionImageConfig.Jsii$Proxy.class)
 public interface LambdaFunctionImageConfig extends software.amazon.jsii.JsiiSerializable {

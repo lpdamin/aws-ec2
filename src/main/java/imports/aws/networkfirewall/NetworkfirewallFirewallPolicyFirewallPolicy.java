@@ -1,6 +1,6 @@
 package imports.aws.networkfirewall;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.987Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.030Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.networkfirewall.NetworkfirewallFirewallPolicyFirewallPolicy")
 @software.amazon.jsii.Jsii.Proxy(NetworkfirewallFirewallPolicyFirewallPolicy.Jsii$Proxy.class)
 public interface NetworkfirewallFirewallPolicyFirewallPolicy extends software.amazon.jsii.JsiiSerializable {

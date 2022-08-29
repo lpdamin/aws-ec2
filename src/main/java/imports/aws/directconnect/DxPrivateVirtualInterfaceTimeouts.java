@@ -1,6 +1,6 @@
 package imports.aws.directconnect;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:58.284Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.423Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.directconnect.DxPrivateVirtualInterfaceTimeouts")
 @software.amazon.jsii.Jsii.Proxy(DxPrivateVirtualInterfaceTimeouts.Jsii$Proxy.class)
 public interface DxPrivateVirtualInterfaceTimeouts extends software.amazon.jsii.JsiiSerializable {

@@ -1,6 +1,6 @@
 package imports.aws.eks;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:59.452Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.947Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.eks.DataAwsEksClusterIdentityOidc")
 @software.amazon.jsii.Jsii.Proxy(DataAwsEksClusterIdentityOidc.Jsii$Proxy.class)
 public interface DataAwsEksClusterIdentityOidc extends software.amazon.jsii.JsiiSerializable {

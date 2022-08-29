@@ -3,7 +3,7 @@ package imports.aws.servicediscovery;
 /**
  * AWS Service Discovery.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.668Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.674Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.servicediscovery.DataAwsServiceDiscoveryServiceConfig")
 @software.amazon.jsii.Jsii.Proxy(DataAwsServiceDiscoveryServiceConfig.Jsii$Proxy.class)
 public interface DataAwsServiceDiscoveryServiceConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

@@ -3,7 +3,7 @@ package imports.aws.pinpoint;
 /**
  * AWS Pinpoint.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.148Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.168Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.pinpoint.PinpointBaiduChannelConfig")
 @software.amazon.jsii.Jsii.Proxy(PinpointBaiduChannelConfig.Jsii$Proxy.class)
 public interface PinpointBaiduChannelConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

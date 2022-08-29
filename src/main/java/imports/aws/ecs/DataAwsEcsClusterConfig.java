@@ -3,7 +3,7 @@ package imports.aws.ecs;
 /**
  * AWS EC2 Container Service.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:59.380Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.886Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.ecs.DataAwsEcsClusterConfig")
 @software.amazon.jsii.Jsii.Proxy(DataAwsEcsClusterConfig.Jsii$Proxy.class)
 public interface DataAwsEcsClusterConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

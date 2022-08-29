@@ -3,7 +3,7 @@ package imports.aws.backup;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/d/backup_selection aws_backup_selection}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:57.001Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:47.876Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.backup.DataAwsBackupSelection")
 public class DataAwsBackupSelection extends com.hashicorp.cdktf.TerraformDataSource {
 

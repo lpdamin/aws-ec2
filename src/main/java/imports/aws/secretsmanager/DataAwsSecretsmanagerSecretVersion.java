@@ -3,7 +3,7 @@ package imports.aws.secretsmanager;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/d/secretsmanager_secret_version aws_secretsmanager_secret_version}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.543Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.546Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.secretsmanager.DataAwsSecretsmanagerSecretVersion")
 public class DataAwsSecretsmanagerSecretVersion extends com.hashicorp.cdktf.TerraformDataSource {
 

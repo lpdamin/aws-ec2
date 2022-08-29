@@ -1,6 +1,6 @@
 package imports.aws.wafregional;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:02.122Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:51.098Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.wafregional.WafregionalSizeConstraintSetSizeConstraintsFieldToMatch")
 @software.amazon.jsii.Jsii.Proxy(WafregionalSizeConstraintSetSizeConstraintsFieldToMatch.Jsii$Proxy.class)
 public interface WafregionalSizeConstraintSetSizeConstraintsFieldToMatch extends software.amazon.jsii.JsiiSerializable {

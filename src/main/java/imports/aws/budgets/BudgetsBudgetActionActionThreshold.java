@@ -1,6 +1,6 @@
 package imports.aws.budgets;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:57.069Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:47.891Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.budgets.BudgetsBudgetActionActionThreshold")
 @software.amazon.jsii.Jsii.Proxy(BudgetsBudgetActionActionThreshold.Jsii$Proxy.class)
 public interface BudgetsBudgetActionActionThreshold extends software.amazon.jsii.JsiiSerializable {

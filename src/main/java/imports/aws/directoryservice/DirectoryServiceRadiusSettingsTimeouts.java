@@ -1,6 +1,6 @@
 package imports.aws.directoryservice;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:58.308Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.439Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.directoryservice.DirectoryServiceRadiusSettingsTimeouts")
 @software.amazon.jsii.Jsii.Proxy(DirectoryServiceRadiusSettingsTimeouts.Jsii$Proxy.class)
 public interface DirectoryServiceRadiusSettingsTimeouts extends software.amazon.jsii.JsiiSerializable {

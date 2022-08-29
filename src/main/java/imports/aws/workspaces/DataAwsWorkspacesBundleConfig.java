@@ -3,7 +3,7 @@ package imports.aws.workspaces;
 /**
  * AWS WorkSpaces.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:02.698Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:51.712Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.workspaces.DataAwsWorkspacesBundleConfig")
 @software.amazon.jsii.Jsii.Proxy(DataAwsWorkspacesBundleConfig.Jsii$Proxy.class)
 public interface DataAwsWorkspacesBundleConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

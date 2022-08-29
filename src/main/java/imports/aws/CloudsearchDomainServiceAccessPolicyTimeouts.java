@@ -1,6 +1,6 @@
 package imports.aws;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:55.499Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:47.144Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.CloudsearchDomainServiceAccessPolicyTimeouts")
 @software.amazon.jsii.Jsii.Proxy(CloudsearchDomainServiceAccessPolicyTimeouts.Jsii$Proxy.class)
 public interface CloudsearchDomainServiceAccessPolicyTimeouts extends software.amazon.jsii.JsiiSerializable {

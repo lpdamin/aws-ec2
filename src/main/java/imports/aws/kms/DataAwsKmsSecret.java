@@ -3,7 +3,7 @@ package imports.aws.kms;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/d/kms_secret aws_kms_secret}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.671Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.657Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.kms.DataAwsKmsSecret")
 public class DataAwsKmsSecret extends com.hashicorp.cdktf.TerraformDataSource {
 

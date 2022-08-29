@@ -1,6 +1,6 @@
 package imports.aws.wafregional;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:02.110Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:51.091Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.wafregional.WafregionalGeoMatchSetGeoMatchConstraint")
 @software.amazon.jsii.Jsii.Proxy(WafregionalGeoMatchSetGeoMatchConstraint.Jsii$Proxy.class)
 public interface WafregionalGeoMatchSetGeoMatchConstraint extends software.amazon.jsii.JsiiSerializable {

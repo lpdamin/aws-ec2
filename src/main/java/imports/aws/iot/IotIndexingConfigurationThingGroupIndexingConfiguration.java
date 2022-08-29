@@ -1,6 +1,6 @@
 package imports.aws.iot;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.559Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.427Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.iot.IotIndexingConfigurationThingGroupIndexingConfiguration")
 @software.amazon.jsii.Jsii.Proxy(IotIndexingConfigurationThingGroupIndexingConfiguration.Jsii$Proxy.class)
 public interface IotIndexingConfigurationThingGroupIndexingConfiguration extends software.amazon.jsii.JsiiSerializable {

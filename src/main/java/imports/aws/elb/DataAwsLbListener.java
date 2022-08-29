@@ -3,7 +3,7 @@ package imports.aws.elb;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/d/lb_listener aws_lb_listener}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:59.794Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.057Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.elb.DataAwsLbListener")
 public class DataAwsLbListener extends com.hashicorp.cdktf.TerraformDataSource {
 

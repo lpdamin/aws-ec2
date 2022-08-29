@@ -1,6 +1,6 @@
 package imports.aws.elb;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:59.797Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.059Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.elb.DataAwsLbListenerDefaultActionForward")
 @software.amazon.jsii.Jsii.Proxy(DataAwsLbListenerDefaultActionForward.Jsii$Proxy.class)
 public interface DataAwsLbListenerDefaultActionForward extends software.amazon.jsii.JsiiSerializable {

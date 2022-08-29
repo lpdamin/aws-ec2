@@ -3,7 +3,7 @@ package imports.aws.transfer;
 /**
  * AWS Transfer.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.826Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.831Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.transfer.TransferUserConfig")
 @software.amazon.jsii.Jsii.Proxy(TransferUserConfig.Jsii$Proxy.class)
 public interface TransferUserConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

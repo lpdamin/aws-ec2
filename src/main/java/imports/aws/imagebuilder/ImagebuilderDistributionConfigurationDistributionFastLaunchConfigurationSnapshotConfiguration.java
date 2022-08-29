@@ -1,6 +1,6 @@
 package imports.aws.imagebuilder;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.537Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.398Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.imagebuilder.ImagebuilderDistributionConfigurationDistributionFastLaunchConfigurationSnapshotConfiguration")
 @software.amazon.jsii.Jsii.Proxy(ImagebuilderDistributionConfigurationDistributionFastLaunchConfigurationSnapshotConfiguration.Jsii$Proxy.class)
 public interface ImagebuilderDistributionConfigurationDistributionFastLaunchConfigurationSnapshotConfiguration extends software.amazon.jsii.JsiiSerializable {

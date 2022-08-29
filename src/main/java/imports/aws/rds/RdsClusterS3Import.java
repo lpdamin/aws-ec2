@@ -1,6 +1,6 @@
 package imports.aws.rds;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.255Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.272Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.rds.RdsClusterS3Import")
 @software.amazon.jsii.Jsii.Proxy(RdsClusterS3Import.Jsii$Proxy.class)
 public interface RdsClusterS3Import extends software.amazon.jsii.JsiiSerializable {

@@ -3,7 +3,7 @@ package imports.aws.worklink;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/r/worklink_website_certificate_authority_association aws_worklink_website_certificate_authority_association}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:02.697Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:51.710Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.worklink.WorklinkWebsiteCertificateAuthorityAssociation")
 public class WorklinkWebsiteCertificateAuthorityAssociation extends com.hashicorp.cdktf.TerraformResource {
 

@@ -3,7 +3,7 @@ package imports.aws.ses;
 /**
  * AWS Simple Email Service.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.685Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.693Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.ses.SesDomainDkimConfig")
 @software.amazon.jsii.Jsii.Proxy(SesDomainDkimConfig.Jsii$Proxy.class)
 public interface SesDomainDkimConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

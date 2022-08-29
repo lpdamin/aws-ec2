@@ -3,7 +3,7 @@ package imports.aws;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/r/location_place_index aws_location_place_index}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:55.835Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:47.332Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.LocationPlaceIndex")
 public class LocationPlaceIndex extends com.hashicorp.cdktf.TerraformResource {
 

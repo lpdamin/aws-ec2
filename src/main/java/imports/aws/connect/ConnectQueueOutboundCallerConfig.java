@@ -1,6 +1,6 @@
 package imports.aws.connect;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:57.814Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.250Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.connect.ConnectQueueOutboundCallerConfig")
 @software.amazon.jsii.Jsii.Proxy(ConnectQueueOutboundCallerConfig.Jsii$Proxy.class)
 public interface ConnectQueueOutboundCallerConfig extends software.amazon.jsii.JsiiSerializable {

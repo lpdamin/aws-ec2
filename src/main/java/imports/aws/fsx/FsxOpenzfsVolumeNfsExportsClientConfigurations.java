@@ -1,6 +1,6 @@
 package imports.aws.fsx;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.219Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.207Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.fsx.FsxOpenzfsVolumeNfsExportsClientConfigurations")
 @software.amazon.jsii.Jsii.Proxy(FsxOpenzfsVolumeNfsExportsClientConfigurations.Jsii$Proxy.class)
 public interface FsxOpenzfsVolumeNfsExportsClientConfigurations extends software.amazon.jsii.JsiiSerializable {

@@ -3,7 +3,7 @@ package imports.aws.ec2;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/d/ec2_local_gateway_virtual_interface aws_ec2_local_gateway_virtual_interface}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:58.628Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.585Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.ec2.DataAwsEc2LocalGatewayVirtualInterface")
 public class DataAwsEc2LocalGatewayVirtualInterface extends com.hashicorp.cdktf.TerraformDataSource {
 

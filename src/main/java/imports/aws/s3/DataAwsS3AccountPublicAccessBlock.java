@@ -3,7 +3,7 @@ package imports.aws.s3;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/d/s3_account_public_access_block aws_s3_account_public_access_block}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.369Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.383Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.s3.DataAwsS3AccountPublicAccessBlock")
 public class DataAwsS3AccountPublicAccessBlock extends com.hashicorp.cdktf.TerraformDataSource {
 

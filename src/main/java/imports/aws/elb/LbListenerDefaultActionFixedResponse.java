@@ -1,6 +1,6 @@
 package imports.aws.elb;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:59.840Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.080Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.elb.LbListenerDefaultActionFixedResponse")
 @software.amazon.jsii.Jsii.Proxy(LbListenerDefaultActionFixedResponse.Jsii$Proxy.class)
 public interface LbListenerDefaultActionFixedResponse extends software.amazon.jsii.JsiiSerializable {

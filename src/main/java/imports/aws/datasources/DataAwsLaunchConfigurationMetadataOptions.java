@@ -1,6 +1,6 @@
 package imports.aws.datasources;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:58.038Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.320Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.datasources.DataAwsLaunchConfigurationMetadataOptions")
 @software.amazon.jsii.Jsii.Proxy(DataAwsLaunchConfigurationMetadataOptions.Jsii$Proxy.class)
 public interface DataAwsLaunchConfigurationMetadataOptions extends software.amazon.jsii.JsiiSerializable {

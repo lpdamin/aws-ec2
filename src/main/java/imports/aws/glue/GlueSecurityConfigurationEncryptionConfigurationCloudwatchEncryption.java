@@ -1,6 +1,6 @@
 package imports.aws.glue;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.356Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.286Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.glue.GlueSecurityConfigurationEncryptionConfigurationCloudwatchEncryption")
 @software.amazon.jsii.Jsii.Proxy(GlueSecurityConfigurationEncryptionConfigurationCloudwatchEncryption.Jsii$Proxy.class)
 public interface GlueSecurityConfigurationEncryptionConfigurationCloudwatchEncryption extends software.amazon.jsii.JsiiSerializable {

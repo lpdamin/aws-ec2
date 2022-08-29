@@ -1,6 +1,6 @@
 package imports.aws.macie2;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.800Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.920Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.macie2.Macie2FindingsFilterFindingCriteria")
 @software.amazon.jsii.Jsii.Proxy(Macie2FindingsFilterFindingCriteria.Jsii$Proxy.class)
 public interface Macie2FindingsFilterFindingCriteria extends software.amazon.jsii.JsiiSerializable {

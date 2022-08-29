@@ -1,6 +1,6 @@
 package imports.aws.networkfirewall;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.018Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.047Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.networkfirewall.NetworkfirewallRuleGroupRuleGroupRulesSourceStatefulRule")
 @software.amazon.jsii.Jsii.Proxy(NetworkfirewallRuleGroupRuleGroupRulesSourceStatefulRule.Jsii$Proxy.class)
 public interface NetworkfirewallRuleGroupRuleGroupRulesSourceStatefulRule extends software.amazon.jsii.JsiiSerializable {

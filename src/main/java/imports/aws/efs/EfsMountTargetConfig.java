@@ -3,7 +3,7 @@ package imports.aws.efs;
 /**
  * AWS EFS.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:59.443Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.933Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.efs.EfsMountTargetConfig")
 @software.amazon.jsii.Jsii.Proxy(EfsMountTargetConfig.Jsii$Proxy.class)
 public interface EfsMountTargetConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

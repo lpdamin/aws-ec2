@@ -1,6 +1,6 @@
 package imports.aws.msk;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.844Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.969Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.msk.MskClusterOpenMonitoringPrometheusJmxExporter")
 @software.amazon.jsii.Jsii.Proxy(MskClusterOpenMonitoringPrometheusJmxExporter.Jsii$Proxy.class)
 public interface MskClusterOpenMonitoringPrometheusJmxExporter extends software.amazon.jsii.JsiiSerializable {

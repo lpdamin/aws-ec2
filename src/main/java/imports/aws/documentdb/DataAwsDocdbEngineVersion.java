@@ -3,7 +3,7 @@ package imports.aws.documentdb;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/d/docdb_engine_version aws_docdb_engine_version}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:58.420Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.472Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.documentdb.DataAwsDocdbEngineVersion")
 public class DataAwsDocdbEngineVersion extends com.hashicorp.cdktf.TerraformDataSource {
 

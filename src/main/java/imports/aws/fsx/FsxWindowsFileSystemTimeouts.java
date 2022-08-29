@@ -1,6 +1,6 @@
 package imports.aws.fsx;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.242Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.210Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.fsx.FsxWindowsFileSystemTimeouts")
 @software.amazon.jsii.Jsii.Proxy(FsxWindowsFileSystemTimeouts.Jsii$Proxy.class)
 public interface FsxWindowsFileSystemTimeouts extends software.amazon.jsii.JsiiSerializable {

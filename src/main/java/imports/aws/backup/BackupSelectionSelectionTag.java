@@ -1,6 +1,6 @@
 package imports.aws.backup;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:56.965Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:47.856Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.backup.BackupSelectionSelectionTag")
 @software.amazon.jsii.Jsii.Proxy(BackupSelectionSelectionTag.Jsii$Proxy.class)
 public interface BackupSelectionSelectionTag extends software.amazon.jsii.JsiiSerializable {

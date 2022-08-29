@@ -3,7 +3,7 @@ package imports.aws.emr;
 /**
  * AWS Elastic MapReduce.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.008Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.135Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.emr.EmrStudioConfig")
 @software.amazon.jsii.Jsii.Proxy(EmrStudioConfig.Jsii$Proxy.class)
 public interface EmrStudioConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

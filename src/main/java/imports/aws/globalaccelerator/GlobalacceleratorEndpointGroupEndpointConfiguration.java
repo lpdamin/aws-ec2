@@ -1,6 +1,6 @@
 package imports.aws.globalaccelerator;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.295Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.233Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.globalaccelerator.GlobalacceleratorEndpointGroupEndpointConfiguration")
 @software.amazon.jsii.Jsii.Proxy(GlobalacceleratorEndpointGroupEndpointConfiguration.Jsii$Proxy.class)
 public interface GlobalacceleratorEndpointGroupEndpointConfiguration extends software.amazon.jsii.JsiiSerializable {

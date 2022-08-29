@@ -1,6 +1,6 @@
 package imports.aws.codedeploy;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:57.553Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.124Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.codedeploy.CodedeployDeploymentGroupBlueGreenDeploymentConfig")
 @software.amazon.jsii.Jsii.Proxy(CodedeployDeploymentGroupBlueGreenDeploymentConfig.Jsii$Proxy.class)
 public interface CodedeployDeploymentGroupBlueGreenDeploymentConfig extends software.amazon.jsii.JsiiSerializable {

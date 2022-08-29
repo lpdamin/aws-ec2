@@ -1,6 +1,6 @@
 package imports.aws.workspaces;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:02.700Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:51.714Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.workspaces.DataAwsWorkspacesDirectoryWorkspaceCreationPropertiesOutputReference")
 public class DataAwsWorkspacesDirectoryWorkspaceCreationPropertiesOutputReference extends com.hashicorp.cdktf.ComplexObject {
 

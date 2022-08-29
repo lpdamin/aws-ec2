@@ -3,7 +3,7 @@ package imports.aws.cloudhsm;
 /**
  * AWS CloudHSM.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:57.332Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.038Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.cloudhsm.CloudhsmV2HsmConfig")
 @software.amazon.jsii.Jsii.Proxy(CloudhsmV2HsmConfig.Jsii$Proxy.class)
 public interface CloudhsmV2HsmConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

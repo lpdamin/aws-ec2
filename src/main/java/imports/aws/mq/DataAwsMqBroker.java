@@ -3,7 +3,7 @@ package imports.aws.mq;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/d/mq_broker aws_mq_broker}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.813Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.930Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.mq.DataAwsMqBroker")
 public class DataAwsMqBroker extends com.hashicorp.cdktf.TerraformDataSource {
 

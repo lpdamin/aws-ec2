@@ -1,6 +1,6 @@
 package imports.aws.lambdafunction;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.717Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.764Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.lambdafunction.LambdaAliasRoutingConfigOutputReference")
 public class LambdaAliasRoutingConfigOutputReference extends com.hashicorp.cdktf.ComplexObject {
 

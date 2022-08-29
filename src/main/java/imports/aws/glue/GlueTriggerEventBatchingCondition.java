@@ -1,6 +1,6 @@
 package imports.aws.glue;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.359Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.288Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.glue.GlueTriggerEventBatchingCondition")
 @software.amazon.jsii.Jsii.Proxy(GlueTriggerEventBatchingCondition.Jsii$Proxy.class)
 public interface GlueTriggerEventBatchingCondition extends software.amazon.jsii.JsiiSerializable {

@@ -3,7 +3,7 @@ package imports.aws.redshift;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/d/redshift_service_account aws_redshift_service_account}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.259Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.276Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.redshift.DataAwsRedshiftServiceAccount")
 public class DataAwsRedshiftServiceAccount extends com.hashicorp.cdktf.TerraformDataSource {
 

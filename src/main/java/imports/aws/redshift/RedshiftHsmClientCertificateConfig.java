@@ -3,7 +3,7 @@ package imports.aws.redshift;
 /**
  * AWS Redshift.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.270Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.294Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.redshift.RedshiftHsmClientCertificateConfig")
 @software.amazon.jsii.Jsii.Proxy(RedshiftHsmClientCertificateConfig.Jsii$Proxy.class)
 public interface RedshiftHsmClientCertificateConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

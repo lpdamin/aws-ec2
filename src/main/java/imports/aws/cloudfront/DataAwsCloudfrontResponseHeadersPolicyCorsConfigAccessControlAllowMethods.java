@@ -1,6 +1,6 @@
 package imports.aws.cloudfront;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:57.311Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.028Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.cloudfront.DataAwsCloudfrontResponseHeadersPolicyCorsConfigAccessControlAllowMethods")
 @software.amazon.jsii.Jsii.Proxy(DataAwsCloudfrontResponseHeadersPolicyCorsConfigAccessControlAllowMethods.Jsii$Proxy.class)
 public interface DataAwsCloudfrontResponseHeadersPolicyCorsConfigAccessControlAllowMethods extends software.amazon.jsii.JsiiSerializable {

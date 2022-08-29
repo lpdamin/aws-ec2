@@ -3,7 +3,7 @@ package imports.aws.apprunner;
 /**
  * App Runner.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:56.637Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:47.711Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.apprunner.ApprunnerServiceConfig")
 @software.amazon.jsii.Jsii.Proxy(ApprunnerServiceConfig.Jsii$Proxy.class)
 public interface ApprunnerServiceConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

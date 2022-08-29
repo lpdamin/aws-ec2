@@ -1,6 +1,6 @@
 package imports.aws.datasync;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:58.159Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.356Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.datasync.DatasyncLocationS3S3ConfigOutputReference")
 public class DatasyncLocationS3S3ConfigOutputReference extends com.hashicorp.cdktf.ComplexObject {
 

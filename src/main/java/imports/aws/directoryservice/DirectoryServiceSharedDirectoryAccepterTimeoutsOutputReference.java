@@ -1,6 +1,6 @@
 package imports.aws.directoryservice;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:58.318Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.442Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.directoryservice.DirectoryServiceSharedDirectoryAccepterTimeoutsOutputReference")
 public class DirectoryServiceSharedDirectoryAccepterTimeoutsOutputReference extends com.hashicorp.cdktf.ComplexObject {
 

@@ -1,6 +1,6 @@
 package imports.aws.neptune;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.936Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.005Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.neptune.NeptuneClusterParameterGroupParameterOutputReference")
 public class NeptuneClusterParameterGroupParameterOutputReference extends com.hashicorp.cdktf.ComplexObject {
 

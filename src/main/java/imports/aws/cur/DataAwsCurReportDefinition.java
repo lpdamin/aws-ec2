@@ -3,7 +3,7 @@ package imports.aws.cur;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/d/cur_report_definition aws_cur_report_definition}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:57.953Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.291Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.cur.DataAwsCurReportDefinition")
 public class DataAwsCurReportDefinition extends com.hashicorp.cdktf.TerraformDataSource {
 

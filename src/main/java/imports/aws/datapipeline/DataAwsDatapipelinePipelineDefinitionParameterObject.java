@@ -1,6 +1,6 @@
 package imports.aws.datapipeline;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:57.959Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.293Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.datapipeline.DataAwsDatapipelinePipelineDefinitionParameterObject")
 @software.amazon.jsii.Jsii.Proxy(DataAwsDatapipelinePipelineDefinitionParameterObject.Jsii$Proxy.class)
 public interface DataAwsDatapipelinePipelineDefinitionParameterObject extends software.amazon.jsii.JsiiSerializable {

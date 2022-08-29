@@ -3,7 +3,7 @@ package imports.aws.dax;
 /**
  * AWS DynamoDB Accelerator.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:58.188Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.375Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.dax.DaxSubnetGroupConfig")
 @software.amazon.jsii.Jsii.Proxy(DaxSubnetGroupConfig.Jsii$Proxy.class)
 public interface DaxSubnetGroupConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

@@ -3,7 +3,7 @@ package imports.aws.iot;
 /**
  * AWS IoT.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.585Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.456Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.iot.IotTopicRuleDestinationConfig")
 @software.amazon.jsii.Jsii.Proxy(IotTopicRuleDestinationConfig.Jsii$Proxy.class)
 public interface IotTopicRuleDestinationConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

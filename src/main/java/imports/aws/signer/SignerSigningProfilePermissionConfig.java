@@ -3,7 +3,7 @@ package imports.aws.signer;
 /**
  * AWS Signer.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.724Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.728Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.signer.SignerSigningProfilePermissionConfig")
 @software.amazon.jsii.Jsii.Proxy(SignerSigningProfilePermissionConfig.Jsii$Proxy.class)
 public interface SignerSigningProfilePermissionConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

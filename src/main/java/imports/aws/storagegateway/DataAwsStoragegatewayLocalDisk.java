@@ -3,7 +3,7 @@ package imports.aws.storagegateway;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/d/storagegateway_local_disk aws_storagegateway_local_disk}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.784Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.782Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.storagegateway.DataAwsStoragegatewayLocalDisk")
 public class DataAwsStoragegatewayLocalDisk extends com.hashicorp.cdktf.TerraformDataSource {
 

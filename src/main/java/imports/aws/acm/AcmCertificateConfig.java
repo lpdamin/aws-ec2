@@ -3,7 +3,7 @@ package imports.aws.acm;
 /**
  * Amazon Certificate Manager.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:55.986Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:47.401Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.acm.AcmCertificateConfig")
 @software.amazon.jsii.Jsii.Proxy(AcmCertificateConfig.Jsii$Proxy.class)
 public interface AcmCertificateConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

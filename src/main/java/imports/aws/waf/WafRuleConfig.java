@@ -3,7 +3,7 @@ package imports.aws.waf;
 /**
  * AWS WAF.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:02.080Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:51.067Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.waf.WafRuleConfig")
 @software.amazon.jsii.Jsii.Proxy(WafRuleConfig.Jsii$Proxy.class)
 public interface WafRuleConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

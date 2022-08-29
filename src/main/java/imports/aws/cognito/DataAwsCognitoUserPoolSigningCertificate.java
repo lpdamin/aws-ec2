@@ -3,7 +3,7 @@ package imports.aws.cognito;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/d/cognito_user_pool_signing_certificate aws_cognito_user_pool_signing_certificate}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:57.758Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.193Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.cognito.DataAwsCognitoUserPoolSigningCertificate")
 public class DataAwsCognitoUserPoolSigningCertificate extends com.hashicorp.cdktf.TerraformDataSource {
 

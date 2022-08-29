@@ -1,6 +1,6 @@
 package imports.aws.vpc;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.982Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.968Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.vpc.NetworkmanagerTransitGatewayConnectPeerAssociationTimeouts")
 @software.amazon.jsii.Jsii.Proxy(NetworkmanagerTransitGatewayConnectPeerAssociationTimeouts.Jsii$Proxy.class)
 public interface NetworkmanagerTransitGatewayConnectPeerAssociationTimeouts extends software.amazon.jsii.JsiiSerializable {

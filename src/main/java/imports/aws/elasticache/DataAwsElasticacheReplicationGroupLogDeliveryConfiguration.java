@@ -1,6 +1,6 @@
 package imports.aws.elasticache;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:59.516Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.969Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.elasticache.DataAwsElasticacheReplicationGroupLogDeliveryConfiguration")
 @software.amazon.jsii.Jsii.Proxy(DataAwsElasticacheReplicationGroupLogDeliveryConfiguration.Jsii$Proxy.class)
 public interface DataAwsElasticacheReplicationGroupLogDeliveryConfiguration extends software.amazon.jsii.JsiiSerializable {

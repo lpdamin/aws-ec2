@@ -3,7 +3,7 @@ package imports.aws.datasync;
 /**
  * AWS DataSync.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:58.085Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.346Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.datasync.DatasyncLocationEfsConfig")
 @software.amazon.jsii.Jsii.Proxy(DatasyncLocationEfsConfig.Jsii$Proxy.class)
 public interface DatasyncLocationEfsConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

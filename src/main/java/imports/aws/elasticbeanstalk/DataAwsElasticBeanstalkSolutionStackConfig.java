@@ -3,7 +3,7 @@ package imports.aws.elasticbeanstalk;
 /**
  * AWS Elastic Beanstalk.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:59.579Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.982Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.elasticbeanstalk.DataAwsElasticBeanstalkSolutionStackConfig")
 @software.amazon.jsii.Jsii.Proxy(DataAwsElasticBeanstalkSolutionStackConfig.Jsii$Proxy.class)
 public interface DataAwsElasticBeanstalkSolutionStackConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

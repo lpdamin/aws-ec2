@@ -1,6 +1,6 @@
 package imports.aws;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:55.290Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:47.043Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.AwsProviderAssumeRole")
 @software.amazon.jsii.Jsii.Proxy(AwsProviderAssumeRole.Jsii$Proxy.class)
 public interface AwsProviderAssumeRole extends software.amazon.jsii.JsiiSerializable {

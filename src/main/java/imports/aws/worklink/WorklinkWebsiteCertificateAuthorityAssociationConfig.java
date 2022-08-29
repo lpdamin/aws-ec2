@@ -3,7 +3,7 @@ package imports.aws.worklink;
 /**
  * AWS WorkLink.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:02.697Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:51.711Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.worklink.WorklinkWebsiteCertificateAuthorityAssociationConfig")
 @software.amazon.jsii.Jsii.Proxy(WorklinkWebsiteCertificateAuthorityAssociationConfig.Jsii$Proxy.class)
 public interface WorklinkWebsiteCertificateAuthorityAssociationConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

@@ -1,6 +1,6 @@
 package imports.aws.glue;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.328Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.259Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.glue.GlueCrawlerDeltaTarget")
 @software.amazon.jsii.Jsii.Proxy(GlueCrawlerDeltaTarget.Jsii$Proxy.class)
 public interface GlueCrawlerDeltaTarget extends software.amazon.jsii.JsiiSerializable {

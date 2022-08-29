@@ -3,7 +3,7 @@ package imports.aws.resourcegroups;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/d/resourcegroupstaggingapi_resources aws_resourcegroupstaggingapi_resources}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.295Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.306Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.resourcegroups.DataAwsResourcegroupstaggingapiResources")
 public class DataAwsResourcegroupstaggingapiResources extends com.hashicorp.cdktf.TerraformDataSource {
 

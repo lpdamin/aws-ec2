@@ -1,6 +1,6 @@
 package imports.aws.quicksight;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.173Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.194Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.quicksight.QuicksightDataSourceParametersPostgresql")
 @software.amazon.jsii.Jsii.Proxy(QuicksightDataSourceParametersPostgresql.Jsii$Proxy.class)
 public interface QuicksightDataSourceParametersPostgresql extends software.amazon.jsii.JsiiSerializable {

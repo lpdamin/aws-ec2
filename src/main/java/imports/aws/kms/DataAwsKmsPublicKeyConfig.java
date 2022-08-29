@@ -3,7 +3,7 @@ package imports.aws.kms;
 /**
  * AWS Key Management Service.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.671Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.655Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.kms.DataAwsKmsPublicKeyConfig")
 @software.amazon.jsii.Jsii.Proxy(DataAwsKmsPublicKeyConfig.Jsii$Proxy.class)
 public interface DataAwsKmsPublicKeyConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

@@ -1,6 +1,6 @@
 package imports.aws.wafregional;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:02.120Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:51.097Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.wafregional.WafregionalRulePredicate")
 @software.amazon.jsii.Jsii.Proxy(WafregionalRulePredicate.Jsii$Proxy.class)
 public interface WafregionalRulePredicate extends software.amazon.jsii.JsiiSerializable {

@@ -1,6 +1,6 @@
 package imports.aws.appmesh;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:56.532Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:47.659Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.appmesh.AppmeshVirtualGatewaySpecLogging")
 @software.amazon.jsii.Jsii.Proxy(AppmeshVirtualGatewaySpecLogging.Jsii$Proxy.class)
 public interface AppmeshVirtualGatewaySpecLogging extends software.amazon.jsii.JsiiSerializable {

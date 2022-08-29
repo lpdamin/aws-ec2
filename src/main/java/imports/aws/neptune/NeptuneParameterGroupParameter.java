@@ -1,6 +1,6 @@
 package imports.aws.neptune;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.947Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.015Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.neptune.NeptuneParameterGroupParameter")
 @software.amazon.jsii.Jsii.Proxy(NeptuneParameterGroupParameter.Jsii$Proxy.class)
 public interface NeptuneParameterGroupParameter extends software.amazon.jsii.JsiiSerializable {

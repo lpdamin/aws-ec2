@@ -3,7 +3,7 @@ package imports.aws.route53;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/r/route53_vpc_association_authorization aws_route53_vpc_association_authorization}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.366Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.380Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.route53.Route53VpcAssociationAuthorization")
 public class Route53VpcAssociationAuthorization extends com.hashicorp.cdktf.TerraformResource {
 

@@ -3,7 +3,7 @@ package imports.aws.datapipeline;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/d/datapipeline_pipeline aws_datapipeline_pipeline}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:57.954Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.292Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.datapipeline.DataAwsDatapipelinePipeline")
 public class DataAwsDatapipelinePipeline extends com.hashicorp.cdktf.TerraformDataSource {
 

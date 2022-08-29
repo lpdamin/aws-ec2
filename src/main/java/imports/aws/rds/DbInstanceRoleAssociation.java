@@ -3,7 +3,7 @@ package imports.aws.rds;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/r/db_instance_role_association aws_db_instance_role_association}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.213Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.228Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.rds.DbInstanceRoleAssociation")
 public class DbInstanceRoleAssociation extends com.hashicorp.cdktf.TerraformResource {
 

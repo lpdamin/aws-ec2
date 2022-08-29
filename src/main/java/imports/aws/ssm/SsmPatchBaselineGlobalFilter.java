@@ -1,6 +1,6 @@
 package imports.aws.ssm;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.774Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.775Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.ssm.SsmPatchBaselineGlobalFilter")
 @software.amazon.jsii.Jsii.Proxy(SsmPatchBaselineGlobalFilter.Jsii$Proxy.class)
 public interface SsmPatchBaselineGlobalFilter extends software.amazon.jsii.JsiiSerializable {

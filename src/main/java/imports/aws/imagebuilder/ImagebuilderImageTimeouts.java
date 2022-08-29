@@ -1,6 +1,6 @@
 package imports.aws.imagebuilder;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.543Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.406Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.imagebuilder.ImagebuilderImageTimeouts")
 @software.amazon.jsii.Jsii.Proxy(ImagebuilderImageTimeouts.Jsii$Proxy.class)
 public interface ImagebuilderImageTimeouts extends software.amazon.jsii.JsiiSerializable {

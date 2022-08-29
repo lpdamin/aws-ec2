@@ -1,6 +1,6 @@
 package imports.aws.waf;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:02.092Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:51.073Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.waf.WafWebAclLoggingConfigurationRedactedFieldsFieldToMatch")
 @software.amazon.jsii.Jsii.Proxy(WafWebAclLoggingConfigurationRedactedFieldsFieldToMatch.Jsii$Proxy.class)
 public interface WafWebAclLoggingConfigurationRedactedFieldsFieldToMatch extends software.amazon.jsii.JsiiSerializable {

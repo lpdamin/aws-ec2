@@ -3,7 +3,7 @@ package imports.aws.cloudfront;
 /**
  * AWS CloudFront.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:57.282Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.021Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.cloudfront.DataAwsCloudfrontOriginRequestPolicyConfig")
 @software.amazon.jsii.Jsii.Proxy(DataAwsCloudfrontOriginRequestPolicyConfig.Jsii$Proxy.class)
 public interface DataAwsCloudfrontOriginRequestPolicyConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

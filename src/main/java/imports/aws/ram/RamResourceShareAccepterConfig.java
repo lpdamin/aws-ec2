@@ -3,7 +3,7 @@ package imports.aws.ram;
 /**
  * AWS Resource Access Manager.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.186Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.203Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.ram.RamResourceShareAccepterConfig")
 @software.amazon.jsii.Jsii.Proxy(RamResourceShareAccepterConfig.Jsii$Proxy.class)
 public interface RamResourceShareAccepterConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

@@ -1,6 +1,6 @@
 package imports.aws.emr;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:59.964Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.120Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.emr.EmrClusterMasterInstanceGroupEbsConfigList")
 public class EmrClusterMasterInstanceGroupEbsConfigList extends com.hashicorp.cdktf.ComplexList {
 

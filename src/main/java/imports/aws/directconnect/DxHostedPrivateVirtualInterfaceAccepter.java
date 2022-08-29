@@ -3,7 +3,7 @@ package imports.aws.directconnect;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/r/dx_hosted_private_virtual_interface_accepter aws_dx_hosted_private_virtual_interface_accepter}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:58.247Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.401Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.directconnect.DxHostedPrivateVirtualInterfaceAccepter")
 public class DxHostedPrivateVirtualInterfaceAccepter extends com.hashicorp.cdktf.TerraformResource {
 

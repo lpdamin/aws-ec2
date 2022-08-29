@@ -3,7 +3,7 @@ package imports.aws.ec2;
 /**
  * AWS EC2.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:59.005Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.733Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.ec2.Ec2LocalGatewayRouteTableVpcAssociationConfig")
 @software.amazon.jsii.Jsii.Proxy(Ec2LocalGatewayRouteTableVpcAssociationConfig.Jsii$Proxy.class)
 public interface Ec2LocalGatewayRouteTableVpcAssociationConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

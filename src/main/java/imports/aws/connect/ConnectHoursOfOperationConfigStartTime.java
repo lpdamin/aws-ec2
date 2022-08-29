@@ -1,6 +1,6 @@
 package imports.aws.connect;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:57.805Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.232Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.connect.ConnectHoursOfOperationConfigStartTime")
 @software.amazon.jsii.Jsii.Proxy(ConnectHoursOfOperationConfigStartTime.Jsii$Proxy.class)
 public interface ConnectHoursOfOperationConfigStartTime extends software.amazon.jsii.JsiiSerializable {

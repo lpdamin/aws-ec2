@@ -1,6 +1,6 @@
 package imports.aws.msk;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.872Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.987Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.msk.MskconnectConnectorLogDelivery")
 @software.amazon.jsii.Jsii.Proxy(MskconnectConnectorLogDelivery.Jsii$Proxy.class)
 public interface MskconnectConnectorLogDelivery extends software.amazon.jsii.JsiiSerializable {

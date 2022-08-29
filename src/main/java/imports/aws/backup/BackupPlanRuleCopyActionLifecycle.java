@@ -1,6 +1,6 @@
 package imports.aws.backup;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:56.931Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:47.845Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.backup.BackupPlanRuleCopyActionLifecycle")
 @software.amazon.jsii.Jsii.Proxy(BackupPlanRuleCopyActionLifecycle.Jsii$Proxy.class)
 public interface BackupPlanRuleCopyActionLifecycle extends software.amazon.jsii.JsiiSerializable {

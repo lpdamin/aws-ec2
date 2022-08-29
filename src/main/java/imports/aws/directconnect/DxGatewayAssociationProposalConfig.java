@@ -3,7 +3,7 @@ package imports.aws.directconnect;
 /**
  * AWS Direct Connect.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:58.241Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.398Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.directconnect.DxGatewayAssociationProposalConfig")
 @software.amazon.jsii.Jsii.Proxy(DxGatewayAssociationProposalConfig.Jsii$Proxy.class)
 public interface DxGatewayAssociationProposalConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

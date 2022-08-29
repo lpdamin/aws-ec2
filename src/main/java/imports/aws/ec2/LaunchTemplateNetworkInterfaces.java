@@ -1,6 +1,6 @@
 package imports.aws.ec2;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:59.198Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:48.834Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.ec2.LaunchTemplateNetworkInterfaces")
 @software.amazon.jsii.Jsii.Proxy(LaunchTemplateNetworkInterfaces.Jsii$Proxy.class)
 public interface LaunchTemplateNetworkInterfaces extends software.amazon.jsii.JsiiSerializable {

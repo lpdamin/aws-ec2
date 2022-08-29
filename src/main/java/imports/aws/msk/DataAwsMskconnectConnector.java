@@ -3,7 +3,7 @@ package imports.aws.msk;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/d/mskconnect_connector aws_mskconnect_connector}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.824Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.956Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.msk.DataAwsMskconnectConnector")
 public class DataAwsMskconnectConnector extends com.hashicorp.cdktf.TerraformDataSource {
 

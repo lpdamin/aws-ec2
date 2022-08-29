@@ -3,7 +3,7 @@ package imports.aws.swf;
 /**
  * Represents a {@link https://www.terraform.io/docs/providers/aws/r/swf_domain aws_swf_domain}.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:01.814Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:50.810Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.swf.SwfDomain")
 public class SwfDomain extends com.hashicorp.cdktf.TerraformResource {
 

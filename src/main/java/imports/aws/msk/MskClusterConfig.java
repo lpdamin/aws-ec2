@@ -3,7 +3,7 @@ package imports.aws.msk;
 /**
  * AWS Managed Streaming for Kafka.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.828Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.963Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.msk.MskClusterConfig")
 @software.amazon.jsii.Jsii.Proxy(MskClusterConfig.Jsii$Proxy.class)
 public interface MskClusterConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

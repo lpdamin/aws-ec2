@@ -1,6 +1,6 @@
 package imports.aws.elastictranscoder;
 
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:59.675Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.020Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.elastictranscoder.ElastictranscoderPipelineContentConfig")
 @software.amazon.jsii.Jsii.Proxy(ElastictranscoderPipelineContentConfig.Jsii$Proxy.class)
 public interface ElastictranscoderPipelineContentConfig extends software.amazon.jsii.JsiiSerializable {

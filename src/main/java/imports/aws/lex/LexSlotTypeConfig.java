@@ -3,7 +3,7 @@ package imports.aws.lex;
 /**
  * AWS Lex.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:17:00.760Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:49.850Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.lex.LexSlotTypeConfig")
 @software.amazon.jsii.Jsii.Proxy(LexSlotTypeConfig.Jsii$Proxy.class)
 public interface LexSlotTypeConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

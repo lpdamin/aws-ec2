@@ -3,7 +3,7 @@ package imports.aws.cloudformation;
 /**
  * AWS CloudFormation.
  */
-@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-28T06:16:57.142Z")
+@javax.annotation.Generated(value = "jsii-pacmak/1.65.0 (build 7a02b7f)", date = "2022-08-29T06:16:47.927Z")
 @software.amazon.jsii.Jsii(module = imports.aws.$Module.class, fqn = "hashicorp_aws.cloudformation.DataAwsCloudformationStackConfig")
 @software.amazon.jsii.Jsii.Proxy(DataAwsCloudformationStackConfig.Jsii$Proxy.class)
 public interface DataAwsCloudformationStackConfig extends software.amazon.jsii.JsiiSerializable, com.hashicorp.cdktf.TerraformMetaArguments {

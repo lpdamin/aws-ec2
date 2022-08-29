@@ -15,6 +15,8 @@ public class MainStack extends TerraformStack
 
         AwsProvider.Builder.create(this, "AWS")
           .region("us-east-1")
+          .accessKey("AKIAYVYEEAOWIHLC3UWL")
+          .secretKey("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")
           .build();
 
         Instance instance = Instance.Builder.create(this, "compute")
